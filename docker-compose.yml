@@ -1,0 +1,6 @@
+services:
+  iptv-m3u-viewer:
+    container_name: iptv-m3u-viewer
+    image: dbrosy/iptv-m3u-viewer
+    ports:
+      - "3000:3000"
