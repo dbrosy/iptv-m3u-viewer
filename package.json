@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://localhost:3000/iptv-m3u-viewer",
+  "homepage": "http://localhost:3000/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
