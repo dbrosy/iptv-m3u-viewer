@@ -5,7 +5,7 @@ import { Entry } from 'types';
 import style from './entry.module.css';
 import { snackBarMessagePublished, snackbarVisibillityChanged } from 'store/reducer';
 import { selectAllFiles, selectFileFilter } from 'store/selector/entrys';
-import { DisplayIf } from 'components/DisplayIf';
+import { DisplayIf } from 'comonents/DisplayIf';
 import copy from 'copy-to-clipboard';
 import Grid from '@material-ui/core/Grid';
 
